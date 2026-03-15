@@ -1,0 +1,350 @@
+[
+  {
+    "Floor": 0,
+    "Type": "Retail",
+    "GFA": 663,
+    "Facade Area": 374
+  },
+  {
+    "Floor": 1,
+    "Type": "Retail",
+    "GFA": 666,
+    "Facade Area": 375
+  },
+  {
+    "Floor": 2,
+    "Type": "Retail",
+    "GFA": 668,
+    "Facade Area": 376
+  },
+  {
+    "Floor": 3,
+    "Type": "Retail",
+    "GFA": 671,
+    "Facade Area": 377
+  },
+  {
+    "Floor": 4,
+    "Type": "Retail",
+    "GFA": 673,
+    "Facade Area": 377
+  },
+  {
+    "Floor": 5,
+    "Type": "Retail",
+    "GFA": 676,
+    "Facade Area": 378
+  },
+  {
+    "Floor": 6,
+    "Type": "Retail",
+    "GFA": 678,
+    "Facade Area": 379
+  },
+  {
+    "Floor": 7,
+    "Type": "Retail",
+    "GFA": 681,
+    "Facade Area": 379
+  },
+  {
+    "Floor": 8,
+    "Type": "Retail",
+    "GFA": 683,
+    "Facade Area": 380
+  },
+  {
+    "Floor": 9,
+    "Type": "Retail",
+    "GFA": 686,
+    "Facade Area": 381
+  },
+  {
+    "Floor": 10,
+    "Type": "Retail",
+    "GFA": 688,
+    "Facade Area": 381
+  },
+  {
+    "Floor": 11,
+    "Type": "Retail",
+    "GFA": 691,
+    "Facade Area": 382
+  },
+  {
+    "Floor": 12,
+    "Type": "Retail",
+    "GFA": 693,
+    "Facade Area": 383
+  },
+  {
+    "Floor": 13,
+    "Type": "Retail",
+    "GFA": 696,
+    "Facade Area": 383
+  },
+  {
+    "Floor": 14,
+    "Type": "Retail",
+    "GFA": 698,
+    "Facade Area": 384
+  },
+  {
+    "Floor": 15,
+    "Type": "Retail",
+    "GFA": 700,
+    "Facade Area": 385
+  },
+  {
+    "Floor": 16,
+    "Type": "Retail",
+    "GFA": 703,
+    "Facade Area": 385
+  },
+  {
+    "Floor": 17,
+    "Type": "Retail",
+    "GFA": 705,
+    "Facade Area": 386
+  },
+  {
+    "Floor": 18,
+    "Type": "Retail",
+    "GFA": 707,
+    "Facade Area": 387
+  },
+  {
+    "Floor": 19,
+    "Type": "Retail",
+    "GFA": 709,
+    "Facade Area": 387
+  },
+  {
+    "Floor": 20,
+    "Type": "Retail",
+    "GFA": 711,
+    "Facade Area": 388
+  },
+  {
+    "Floor": 21,
+    "Type": "Office",
+    "GFA": 712,
+    "Facade Area": 388
+  },
+  {
+    "Floor": 22,
+    "Type": "Office",
+    "GFA": 714,
+    "Facade Area": 388
+  },
+  {
+    "Floor": 23,
+    "Type": "Office",
+    "GFA": 715,
+    "Facade Area": 389
+  },
+  {
+    "Floor": 24,
+    "Type": "Office",
+    "GFA": 717,
+    "Facade Area": 389
+  },
+  {
+    "Floor": 25,
+    "Type": "Office",
+    "GFA": 717,
+    "Facade Area": 389
+  },
+  {
+    "Floor": 26,
+    "Type": "Office",
+    "GFA": 718,
+    "Facade Area": 390
+  },
+  {
+    "Floor": 27,
+    "Type": "Office",
+    "GFA": 718,
+    "Facade Area": 390
+  },
+  {
+    "Floor": 28,
+    "Type": "Office",
+    "GFA": 718,
+    "Facade Area": 390
+  },
+  {
+    "Floor": 29,
+    "Type": "Office",
+    "GFA": 718,
+    "Facade Area": 390
+  },
+  {
+    "Floor": 30,
+    "Type": "Office",
+    "GFA": 717,
+    "Facade Area": 389
+  },
+  {
+    "Floor": 31,
+    "Type": "Office",
+    "GFA": 715,
+    "Facade Area": 389
+  },
+  {
+    "Floor": 32,
+    "Type": "Office",
+    "GFA": 713,
+    "Facade Area": 388
+  },
+  {
+    "Floor": 33,
+    "Type": "Office",
+    "GFA": 709,
+    "Facade Area": 387
+  },
+  {
+    "Floor": 34,
+    "Type": "Office",
+    "GFA": 705,
+    "Facade Area": 386
+  },
+  {
+    "Floor": 35,
+    "Type": "Office",
+    "GFA": 699,
+    "Facade Area": 384
+  },
+  {
+    "Floor": 36,
+    "Type": "Hospitality",
+    "GFA": 693,
+    "Facade Area": 383
+  },
+  {
+    "Floor": 37,
+    "Type": "Hospitality",
+    "GFA": 684,
+    "Facade Area": 380
+  },
+  {
+    "Floor": 38,
+    "Type": "Hospitality",
+    "GFA": 674,
+    "Facade Area": 378
+  },
+  {
+    "Floor": 39,
+    "Type": "Hospitality",
+    "GFA": 663,
+    "Facade Area": 374
+  },
+  {
+    "Floor": 40,
+    "Type": "Hospitality",
+    "GFA": 650,
+    "Facade Area": 371
+  },
+  {
+    "Floor": 41,
+    "Type": "Hospitality",
+    "GFA": 636,
+    "Facade Area": 367
+  },
+  {
+    "Floor": 42,
+    "Type": "Hospitality",
+    "GFA": 620,
+    "Facade Area": 362
+  },
+  {
+    "Floor": 43,
+    "Type": "Hospitality",
+    "GFA": 604,
+    "Facade Area": 357
+  },
+  {
+    "Floor": 44,
+    "Type": "Hospitality",
+    "GFA": 587,
+    "Facade Area": 352
+  },
+  {
+    "Floor": 45,
+    "Type": "Hospitality",
+    "GFA": 569,
+    "Facade Area": 347
+  },
+  {
+    "Floor": 46,
+    "Type": "Hospitality",
+    "GFA": 552,
+    "Facade Area": 342
+  },
+  {
+    "Floor": 47,
+    "Type": "Hospitality",
+    "GFA": 534,
+    "Facade Area": 336
+  },
+  {
+    "Floor": 48,
+    "Type": "Hospitality",
+    "GFA": 517,
+    "Facade Area": 331
+  },
+  {
+    "Floor": 49,
+    "Type": "Hospitality",
+    "GFA": 500,
+    "Facade Area": 325
+  },
+  {
+    "Floor": 50,
+    "Type": "Hospitality",
+    "GFA": 483,
+    "Facade Area": 319
+  },
+  {
+    "Floor": 51,
+    "Type": "Retai",
+    "GFA": 466,
+    "Facade Area": 314
+  },
+  {
+    "Floor": 52,
+    "Type": "Retai",
+    "GFA": 450,
+    "Facade Area": 309
+  },
+  {
+    "Floor": 53,
+    "Type": "Retai",
+    "GFA": 435,
+    "Facade Area": 303
+  },
+  {
+    "Floor": 54,
+    "Type": "Retai",
+    "GFA": 420,
+    "Facade Area": 298
+  },
+  {
+    "Floor": 55,
+    "Type": "Retai",
+    "GFA": 405,
+    "Facade Area": 293
+  },
+  {
+    "Floor": 56,
+    "Type": "Retai",
+    "GFA": 390,
+    "Facade Area": 287
+  },
+  {
+    "Floor": 57,
+    "Type": "Retai",
+    "GFA": 377,
+    "Facade Area": 282
+  }
+]
